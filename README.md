@@ -1,7 +1,8 @@
 ### Hi there, I am Vitória Tamara 👋 Oiiii :) meu nome é Vitória Tamara
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vltoria&show_icons=true&theme=dracula&hide_border=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vltoria&show_icons=true&theme=dracula&hide_border=true)](https://github.com/vltoria/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=vltoria&show_icons=true&theme=midnight-purple&hide_border=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=vltoria&size_weight=0.5&count_weight=0.5&show_icons=true&theme=midnight-purple&hide_border=true)](https://github.com/vltoria/vltoria)
+
   <div style="display: inline_block">
       <img align="center" height = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
       <img align="center" height = "30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
